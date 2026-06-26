@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Build artifacts
+build/
+dist/
+
+# Local SSH helper files
+.git_ssh/
+
+# Editor and OS files
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# App runtime state
+sort_history.json
+sort_mode_pref.json
+theme_pref.json
+exclude_rules.json
+
+# Local planning notes
+plans/
